@@ -5,7 +5,6 @@ This is a project I completed for an Incident Response unit as part of my degree
 # How to use
 
 ``` Python
-pip install dpkt
 python3 visualiser.py
 ```
 
